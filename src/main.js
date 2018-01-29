@@ -1,3 +1,5 @@
+import '../node_modules/normalize.css/normalize.css';
+
 import Component from './Component.html';
 
 const component = new Component({
